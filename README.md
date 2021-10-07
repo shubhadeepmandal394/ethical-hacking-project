@@ -5,4 +5,4 @@ Detailed Developer Level Report. This project was a part of the Online Training 
 
 <hr>
 
-If I was of any help then consider [buying me a coffee](https://www.buymeacoffee.com/shubhadeep394) ☕😉
+If it was of any help then consider [buying me a coffee](https://www.buymeacoffee.com/shubhadeep394) ☕😉
